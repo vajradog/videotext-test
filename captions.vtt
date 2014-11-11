@@ -2,7 +2,7 @@ WEBVTT FILE
 
 1
 00:00:00.500 --> 00:00:02.000 D:vertical A:start
-The Web is always changing
+<h1>The Web is always changing</h1>
 
 2
 00:00:02.500 --> 00:00:04.300
@@ -18,7 +18,7 @@ Developers all around the world who are using our tools to create great new thin
 
 5
 00:00:11.200 --> 00:00:13.200
-and with so many tools, the sky is the limit
+<h1>and with so many tools, the sky is the limit</h1>
 
 6
 00:00:14.500 --> 00:00:16.500
